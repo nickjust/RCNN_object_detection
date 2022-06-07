@@ -8,6 +8,6 @@ The object (remote controlled car) should be recognised in individual images and
 - created a custom dataset with images and bounding box labels of the remote controlled car (see folder [base_data](https://github.com/nickjust/RCNN_object_detection/tree/main/base_data)) 
 - labelimg was used to annotate the bounding boxes and for automated saving of the coordinates in .xml format ([labelimg](https://github.com/nickjust/RCNN_object_detection/tree/main/labelimg)) 
 
-![Imagenesl](images_readme/labeling.PNG)
+![Imagenesl](images_readme/labeling.png)
 
 
