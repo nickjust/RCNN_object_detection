@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bilder bearbeitet</folder>
+	<filename>IMG_1677.png</filename>
+	<path>C:\Users\Nick Just\Desktop\Bilder bearbeitet\IMG_1677.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote control car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>102</ymin>
+			<xmax>212</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

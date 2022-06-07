@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_neu</folder>
+	<filename>IMG_2685.png</filename>
+	<path>C:\Users\Nick Just\Desktop\Bilder bearbeitet\3_neu\IMG_2685.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote control car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>99</ymin>
+			<xmax>151</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

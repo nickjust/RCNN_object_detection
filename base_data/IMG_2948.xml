@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_neu</folder>
+	<filename>IMG_2948.png</filename>
+	<path>C:\Users\Nick Just\Desktop\Bilder bearbeitet\3_neu\IMG_2948.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote control car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>68</ymin>
+			<xmax>176</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+</annotation>

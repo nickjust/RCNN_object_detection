@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3_neu</folder>
+	<filename>IMG_2688.png</filename>
+	<path>C:\Users\Nick Just\Desktop\Bilder bearbeitet\3_neu\IMG_2688.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote control car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>122</ymin>
+			<xmax>188</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

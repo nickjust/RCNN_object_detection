@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>IMG_1985.png</filename>
+	<path>C:\Users\Nick Just\Desktop\Bilder bearbeitet\2\IMG_1985.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote control car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>98</ymin>
+			<xmax>298</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
