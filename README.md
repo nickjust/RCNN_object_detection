@@ -23,4 +23,9 @@ The object (remote controlled car) should be recognised in individual images and
 - Tensorflow model saved in folder [models](https://github.com/nickjust/RCNN_object_detection/tree/main/model)
 - Hyperparametertuning of training parameters and CNN architecture (see script [models.py](https://github.com/nickjust/RCNN_object_detection/blob/main/models.py) for architecture)
 
+### Part 4: R-CNN algorithm and User Interface
+- Implemented the R-CNN algorithm with Selective Search, CNN classification model and Non-Maximum-Suppression (see script [rcnn.py](https://github.com/nickjust/RCNN_object_detection/blob/main/rcnn.py) for architecture)
+- Added an additional feature to extract frames of a video and put the frames after detection back together for video reconstruction using OpenCV library
+  (see script [video_frame_extractor.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py) for architecture)
+- Developed a User Interface (UI) as main programm in [main.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py) to simplify the execution of the individual tasks for the user: 
 
