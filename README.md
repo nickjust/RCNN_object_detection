@@ -40,7 +40,7 @@ The object (remote controlled car) should be recognised in individual images and
   <img src="images_readme/UI.png">
 </p>
 
-### Examples of correct detection of the remote controlled car with second object
+### Detection examples of the remote controlled car with second object
 <p align="center">
   <img src="images_readme/Detection_picture3.png">
 </p>
