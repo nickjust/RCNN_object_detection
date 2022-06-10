@@ -33,6 +33,8 @@ The object (remote controlled car) should be recognised in individual images and
   (see script [video_frame_extractor.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py))
 - Developed a User Interface (UI) as main programm in [main.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py) to simplify the execution of the individual tasks for the user: 
 
-
+<p align="center">
+  <img src="images_readme/UI.png">
+</p>
 
 
