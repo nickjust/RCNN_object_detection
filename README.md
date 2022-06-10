@@ -8,6 +8,10 @@ The object (remote controlled car) should be recognised in individual images and
 - Created a custom dataset with images and bounding box labels of the remote controlled car (see folder [base_data](https://github.com/nickjust/RCNN_object_detection/tree/main/base_data)) 
 - [Labelimg](https://github.com/nickjust/RCNN_object_detection/tree/main/labelimg) was used to annotate the bounding boxes and for automated saving of the coordinates in .xml format 
 
+<p align="center">
+  <img src="images_readme/labeling.png" alt="Sublime's custom image"/>
+</p>
+
 ![Imagenesl](images_readme/labeling.png)
 
 ### Part 2: Preprocessing 
@@ -28,4 +32,7 @@ The object (remote controlled car) should be recognised in individual images and
 - Added an additional feature to extract frames of a video and put the frames after detection back together for video reconstruction using OpenCV library
   (see script [video_frame_extractor.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py))
 - Developed a User Interface (UI) as main programm in [main.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py) to simplify the execution of the individual tasks for the user: 
+
+
+
 
