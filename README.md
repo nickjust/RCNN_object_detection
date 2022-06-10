@@ -9,7 +9,7 @@ The object (remote controlled car) should be recognised in individual images and
 - [Labelimg](https://github.com/nickjust/RCNN_object_detection/tree/main/labelimg) was used to annotate the bounding boxes and for automated saving of the coordinates in .xml format 
 
 <p align="center">
-  <img src="images_readme/labeling.png" alt="Sublime's custom image"/>
+  <img src="images_readme/labeling.png">
 </p>
 
 ![Imagenesl](images_readme/labeling.png)
