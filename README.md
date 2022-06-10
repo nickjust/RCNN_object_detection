@@ -39,7 +39,7 @@ The object (remote controlled car) should be recognised in individual images and
 
 
  
-![lisa](https://user-images.githubusercontent.com/79932218/173042811-6f589315-abbe-4a33-9422-7f8568d06440.mp4)
+https://user-images.githubusercontent.com/79932218/173042811-6f589315-abbe-4a33-9422-7f8568d06440.mp4 
 
 
   
