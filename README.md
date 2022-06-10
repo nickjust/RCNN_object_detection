@@ -37,6 +37,9 @@ The object (remote controlled car) should be recognised in individual images and
   <img src="images_readme/UI.png">
 </p>
 
-<p align="center">
-  <video src='images_readme/Detection_Video2.mp4'>
-</p>
+
+  
+https://user-images.githubusercontent.com/79932218/173042811-6f589315-abbe-4a33-9422-7f8568d06440.mp4
+
+
+  
