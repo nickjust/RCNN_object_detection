@@ -37,4 +37,6 @@ The object (remote controlled car) should be recognised in individual images and
   <img src="images_readme/UI.png">
 </p>
 
-
+<p align="center">
+  <video src='images_readme/Detection_Video2.mp4'>
+</p>
