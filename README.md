@@ -1,6 +1,6 @@
 ## R-CNN for object detection and motion tracking 
 
-https://user-images.githubusercontent.com/79932218/173047008-fc316eb7-ce81-4787-95e4-6bc811c570d3.mp4
+
 
 
 ### Objective:
@@ -32,9 +32,9 @@ The object (remote controlled car) should be recognised in individual images and
 
 ### Part 4: R-CNN algorithm and User Interface
 - Implemented the R-CNN algorithm with Selective Search, CNN classification model and Non-Maximum-Suppression (see script [rcnn.py](https://github.com/nickjust/RCNN_object_detection/blob/main/rcnn.py))
-- Added an additional feature to extract frames of a video and put the frames after detection back together for video reconstruction using OpenCV library
+- Added an additional feature to extract frames of a video and put the frames back together after detection for video reconstruction using OpenCV library
   (see script [video_frame_extractor.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py))
-- Developed a User Interface (UI) as main programm in [main.py](https://github.com/nickjust/RCNN_object_detection/blob/main/video_frame_extractor.py) to simplify the execution of the individual tasks for the user: 
+- Developed a User Interface (UI) as main programm in [main.py](https://github.com/nickjust/RCNN_object_detection/blob/main/main.py) to simplify the execution of the individual tasks for the user: 
 
 <p align="center">
   <img src="images_readme/UI.png">
@@ -45,6 +45,8 @@ The object (remote controlled car) should be recognised in individual images and
   <img src="images_readme/Detection_picture3.png">
 </p>
 
+Video:
+https://user-images.githubusercontent.com/79932218/173047008-fc316eb7-ce81-4787-95e4-6bc811c570d3.mp4
 
 
   
