@@ -1,7 +1,6 @@
 ## R-CNN for object detection and motion tracking 
 
-
-https://user-images.githubusercontent.com/79932218/173045794-1b0c4ef9-07ff-4573-8fd0-3c8f7c425a3b.mp4
+https://user-images.githubusercontent.com/79932218/173047008-fc316eb7-ce81-4787-95e4-6bc811c570d3.mp4
 
 
 ### Objective:
@@ -41,7 +40,10 @@ The object (remote controlled car) should be recognised in individual images and
   <img src="images_readme/UI.png">
 </p>
 
-
+### Examples of correct detection of the remote controlled car with second object
+<p align="center">
+  <img src="images_readme/Detection_picture3.png">
+</p>
 
 
 
