@@ -1,4 +1,12 @@
 ## R-CNN for object detection and motion tracking 
+### Project overview
+
+* Applied detection and classification of moving objects (Computer Vision) using self-developed Deep Neural Networks (CNN, R-CNN)
+* Self-generated and manually labeled dataset of the individual object to be identified 
+* Implementation in Python using Tensorflow, Keras and OpenCV 
+* Extension of the algorithm to detect the object both in pictures and videos in order to track its movement
+
+
 <p align="center">
   <img src="images_readme/Detection_picture2.png">
 </p>
