@@ -1,4 +1,8 @@
 ## R-CNN for object detection and motion tracking 
+<p align="center">
+  <img src="images_readme/Detection_picture2.png">
+</p>
+
 
 ### Objective:
 Implementation of an coustomized motion and object detection (Computer Vision) of an arbitrary mobile object using R-CNN (Deep Learning).
