@@ -13,7 +13,7 @@
 
 
 ### Objective:
-Realization of an coustomized motion and object detection for an arbitrary mobile object using the Region Based Convolutional Neural Networks (R-CNN).
+Realization of an coustomized motion and object detection for an arbitrary mobile object using a Region Based Convolutional Neural Network (R-CNN).
 
 ### Part 1: Generation of data
 - Created a custom dataset with images and bounding box labels of the remote controlled car (see folder [base_data](https://github.com/nickjust/RCNN_object_detection/tree/main/base_data)) 
