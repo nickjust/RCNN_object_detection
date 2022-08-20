@@ -6,7 +6,7 @@
 * Implementation in Python using Tensorflow, Keras and OpenCV 
 * Extension of the algorithm to recognise the object (remote controlled car) both in individual pictures and videos in order to track its movement
 
-You can access to the code **[HERE](https://github.com/nickjust/RCNN_object_detection)**
+You can access the code **[HERE](https://github.com/nickjust/RCNN_object_detection)**
 
 <p align="center">
   <img src="images_readme/Detection_picture2.png">
